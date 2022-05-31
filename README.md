@@ -10,3 +10,4 @@ vue3 https://doc.wssio.com/opensource/vue3-seamless-scroll/#%E5%BC%80%E5%A7%8B
 
 # 3.前端实用网址
 
+echarts库 http://echarts.zhangmuchen.top/#/index
