@@ -10,4 +10,8 @@ vue3 https://doc.wssio.com/opensource/vue3-seamless-scroll/#%E5%BC%80%E5%A7%8B
 
 # 3.前端实用网址
 
-echarts库 http://echarts.zhangmuchen.top/#/index
+## 3.1 echarts库 http://echarts.zhangmuchen.top/#/index
+
+## 3.2 css边框样式生成器
+
+https://9elements.github.io/fancy-border-radius/#35.100.76.0--.
