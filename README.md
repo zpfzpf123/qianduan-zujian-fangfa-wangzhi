@@ -15,3 +15,13 @@ vue3 https://doc.wssio.com/opensource/vue3-seamless-scroll/#%E5%BC%80%E5%A7%8B
 ## 3.2 css边框样式生成器
 
 https://9elements.github.io/fancy-border-radius/#35.100.76.0--.
+## 3.3 css动画生成器
+
+https://animista.net/
+
+https://angrytools.com/css/animation/
+## 3.4 自定义形状分隔线
+
+[https://www.shapedivider.app/](https://link.zhihu.com/?target=https%3A//www.shapedivider.app/)
+## 3.5 前端知识网址
+https://www.kwgg2020.com/
