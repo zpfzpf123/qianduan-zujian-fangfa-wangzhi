@@ -8,6 +8,8 @@ vue2 https://chenxuan0000.github.io/vue-seamless-scroll/
 
 vue3 https://doc.wssio.com/opensource/vue3-seamless-scroll/#%E5%BC%80%E5%A7%8B
 
+# 2.2 vue-cropper 裁剪图片插件
+https://github.com/xyxiao001/vue-cropper
 # 3.前端实用网址
 
 ## 3.1 echarts库 http://echarts.zhangmuchen.top/#/index
