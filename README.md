@@ -10,5 +10,4 @@
 ## 3.3 css动画生成器 https://animista.net/ https://angrytools.com/css/animation/
 ## 3.4 自定义形状分隔线 [https://www.shapedivider.app/](https://link.zhihu.com/?target=https%3A//www.shapedivider.app/)
 ## 3.5 前端知识网址 https://www.kwgg2020.com/
-## 3.5 资料书籍下载 https://www.jiumodiary.com/
-
+## 3.6 资料书籍下载 https://www.jiumodiary.com/
