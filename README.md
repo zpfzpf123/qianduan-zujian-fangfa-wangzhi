@@ -4,6 +4,7 @@
 ## 2.1 vue无缝滚动组件 vue2 https://chenxuan0000.github.io/vue-seamless-scroll/  vue3 https://doc.wssio.com/opensource/vue3-seamless-scroll/#%E5%BC%80%E5%A7%8B
 ## 2.2 vue-cropper 裁剪图片插件 https://github.com/xyxiao001/vue-cropper
 ## 2.3 自定义表格   https://xuliangzhan_admin.gitee.io/vxe-table/#/table/tree/basic
+## 2.4 Vue 字符串实现JSON格式显示 [vue-json-viewer插件](https://github.com/chenfengjw163/vue-json-viewer/blob/master/README_CN.md)
 # 3.前端实用网址
 ## 3.1 echarts库 http://echarts.zhangmuchen.top/#/index
 ## 3.2 css边框样式生成器 https://9elements.github.io/fancy-border-radius/#35.100.76.0--.
@@ -13,4 +14,3 @@
 ## 3.6 资料书籍下载 https://www.jiumodiary.com/
 ## 3.7 css生成器  http://t.zoukankan.com/sode-p-2254065.html
 ## 3.8 grid布局在线生成器 https://cssgrid-generator.netlify.app/
-## 3.9 Vue 字符串实现JSON格式显示 [vue-json-viewer插件](https://github.com/chenfengjw163/vue-json-viewer/blob/master/README_CN.md)
