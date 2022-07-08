@@ -6,6 +6,8 @@
 ## 2.2 vue-cropper 裁剪图片插件 https://github.com/xyxiao001/vue-cropper
 ## 2.3 自定义表格   https://xuliangzhan_admin.gitee.io/vxe-table/#/table/tree/basic
 ## 2.4 Vue 字符串实现JSON格式显示 [vue-json-viewer插件](https://github.com/chenfengjw163/vue-json-viewer/blob/master/README_CN.md)
+## 2.5 移动端vue手势库 https://github.com/gggso/vue-finger
+
 # 3.前端实用网址
 
 ## 3.1 echarts库 http://echarts.zhangmuchen.top/#/index
@@ -16,4 +18,4 @@
 ## 3.6 资料书籍下载 https://www.jiumodiary.com/
 ## 3.7 css生成器  http://t.zoukankan.com/sode-p-2254065.html
 ## 3.8 grid布局在线生成器 https://cssgrid-generator.netlify.app/
-## 3.9 移动端vue手势库 https://github.com/gggso/vue-finger
+## 3.9 网站合集 https://morething.top/
