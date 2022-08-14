@@ -7,7 +7,7 @@
 ## 2.3 自定义表格   https://xuliangzhan_admin.gitee.io/vxe-table/#/table/tree/basic
 ## 2.4 Vue 字符串实现JSON格式显示 [vue-json-viewer插件](https://github.com/chenfengjw163/vue-json-viewer/blob/master/README_CN.md)
 ## 2.5 移动端vue手势库 https://github.com/gggso/vue-finger
-
+## 2.6 搭建虚拟服务器调用接口 https://github.com/typicode/json-server
 # 3.前端实用网址
 
 ## 3.1 echarts库 http://echarts.zhangmuchen.top/#/index
