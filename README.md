@@ -21,3 +21,4 @@
 ## 3.8 grid布局在线生成器 https://cssgrid-generator.netlify.app/
 ## 3.9 网站合集 https://morething.top/
 ## 3.10 大屏样式动效数据库 http://datav.jiaminghi.com/
+## 3.11 vue快速生成组件 http://web_help.gitee.io/vuefastdevdocs/#/login
